@@ -83,8 +83,6 @@ The dataset, `public_data.csv`, contains 5-day sequences extracted from a time s
 ### **Evaluation Metrics**
 - **AUC of ROC Curve**: Primary metric for competition evaluation.
 - **Comparison of Models**:
-  - Random Forest: AUC = 0.997
-  - Gradient Boosting: AUC = 0.998 (best performing)
 
 
 
